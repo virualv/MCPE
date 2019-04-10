@@ -1,0 +1,27 @@
+2019-04-10 16:19:10.596 [main] INFO  - Loading §anukkit.yml§f ...
+2019-04-10 16:19:10.867 [main] INFO  - Loading §aserver properties§f ...
+2019-04-10 16:19:10.912 [main] INFO  - 将 中文(简体) (chs) 设置为基本语言
+2019-04-10 16:19:10.913 [main] INFO  - 正在启动 Minecraft: PE §bv1.10.0§f
+2019-04-10 16:19:10.926 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-04-10 16:19:11.010 [main] INFO  - 正在于 0.0.0.0:19132 启动服务器
+2019-04-10 16:19:11.045 [main] INFO  - 此服务器正在运行 Nukkit §egit-74aca37§f 版本 "§b§f" (API 1.0.8)
+2019-04-10 16:19:11.048 [main] INFO  - Nukkit 根据 LGPL 许可发行
+2019-04-10 16:19:12.420 [main] INFO  - Loading recipes...
+2019-04-10 16:19:12.709 [main] INFO  - Loaded 954 recipes.
+2019-04-10 16:19:12.714 [main] INFO  - 成功加载 0 资源包
+2019-04-10 16:19:12.877 [main] INFO  - 准备世界 "§aworld§f" 中
+2019-04-10 16:19:13.019 [RakNet Thread #14] INFO  - Epoll is available. EpollEventLoop will be used.
+2019-04-10 16:19:13.046 [main] INFO  - 准备世界 "§anether§f" 中
+2019-04-10 16:19:13.113 [main] INFO  - 启动 GS4 状态监听器
+2019-04-10 16:19:13.114 [main] INFO  - 将 Query 端口设置为 19132
+2019-04-10 16:19:13.116 [main] INFO  - Query 运行于 0.0.0.0:19132
+2019-04-10 16:19:13.119 [main] INFO  - 默认游戏模式：生存模式
+2019-04-10 16:19:13.119 [main] INFO  - 启动完成 (2.593s)！如需帮助，请输入 "help" 或 "?"
+2019-04-10 16:19:56.233 [main] INFO  - §bKeyOrca9§f[/222.94.176.96:63683] 登入游戏，实体 ID 为 1，坐标位于 (world, 121.0206, 70.5625, 119.1729)
+2019-04-10 16:19:57.045 [main] INFO  - §eKeyOrca9 加入了游戏
+2019-04-10 16:20:48.686 [main] INFO  - §eKeyOrca9 离开了游戏
+2019-04-10 16:20:48.689 [main] INFO  - §bKeyOrca9§f[/222.94.176.96:63683] 登出游戏，原因：client disconnect
+2019-04-10 16:35:15.973 [main] INFO  - [CONSOLE: 正在关闭服务器]
+2019-04-10 16:35:16.033 [main] INFO  - 正在卸载世界 "§aworld§f"
+2019-04-10 16:35:16.091 [main] INFO  - 正在卸载世界 "§anether§f"
+2019-04-10 16:35:16.168 [main] INFO  - Stopping other threads

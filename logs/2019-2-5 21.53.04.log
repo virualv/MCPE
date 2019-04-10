@@ -1,0 +1,519 @@
+2019-1-30 20:04:32 [INFO] Welcome! Please choose a language first!
+2019-1-30 20:04:32 [INFO] eng => English
+2019-1-30 20:04:32 [INFO] chs => 中文（简体）
+2019-1-30 20:04:32 [INFO] cht => 中文（繁體）
+2019-1-30 20:04:32 [INFO] jpn => 日本語
+2019-1-30 20:04:32 [INFO] rus => Pyccĸий
+2019-1-30 20:04:32 [INFO] spa => Español
+2019-1-30 20:04:32 [INFO] pol => Polish
+2019-1-30 20:04:32 [INFO] bra => Português-Brasil
+2019-1-30 20:04:32 [INFO] kor => 한국어
+2019-1-30 20:04:32 [INFO] ukr => Українська
+2019-1-30 20:04:32 [INFO] deu => Deutsch
+2019-1-30 20:04:32 [INFO] ltu => Lietuviškai
+2019-1-30 20:04:32 [INFO] idn => Indonesia
+2019-1-30 20:04:32 [INFO] cze => Czech
+2019-1-30 20:04:32 [INFO] tur => Turkish
+2019-1-30 20:04:32 [INFO] fin => Suomi
+2019-1-30 20:04:40 [INFO] Loading nukkit.yml...
+2019-1-30 20:04:40 [INFO] Loading server properties...
+2019-1-30 20:04:40 [INFO] 将 中文(简体) (chs) 设定为基本语言
+2019-1-30 20:04:40 [INFO] 正在启动支持 Minecraft: PE v1.8.0 版本的服务器
+2019-1-30 20:04:40 [INFO] Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-1-30 20:04:40 [INFO] 正在启动服务器在 0.0.0.0:19132
+2019-1-30 20:04:40 [INFO] 此服务器正在运行 Nukkit git-17e2dfa 版本 "" (API 1.0.7)
+2019-1-30 20:04:40 [INFO] Nukkit 根据 LGPL 许可发行
+2019-1-30 20:04:41 [INFO] Loading recipes...
+2019-1-30 20:04:42 [INFO] Loaded 954 recipes.
+2019-1-30 20:04:42 [INFO] Successfully loaded 0 resource packs
+2019-1-30 20:04:42 [NOTICE] 无法找到地图 "world"
+2019-1-30 20:04:42 [INFO] 准备地图中... "world"
+2019-1-30 20:04:42 [INFO] Epoll is available. EpollEventLoop will be used.
+2019-1-30 20:04:42 [NOTICE] 无法找到地图 "nether"
+2019-1-30 20:04:42 [INFO] No level called "nether" found, creating default nether level.
+2019-1-30 20:04:42 [INFO] 准备地图中... "nether"
+2019-1-30 20:04:42 [INFO] 启动 GS4 状态监听器
+2019-1-30 20:04:42 [INFO] 将 Query 端口设定为 19132
+2019-1-30 20:04:42 [INFO] Query 运行在 0.0.0.0:19132
+2019-1-30 20:04:42 [INFO] 默认的游戏模式为：生存模式
+2019-1-30 20:04:42 [INFO] 启动完成 (10.836s)！如需帮助，请输入 "help" 或 "?"
+2019-1-30 20:04:51 [INFO] --- 显示帮助手册总 1 页中的第 1 页 (/help <页码>) ---
+2019-1-30 20:04:51 [INFO] /ban: 禁止指定的玩家加入此服务器
+2019-1-30 20:04:51 [INFO] /ban-ip: 禁止指定的 IP 地址加入此服务器
+2019-1-30 20:04:51 [INFO] /banlist: 查看该服务器封禁的所有玩家
+2019-1-30 20:04:51 [INFO] /debugpaste: %nukkit.command.debug.description
+2019-1-30 20:04:51 [INFO] /defaultgamemode: 设置默认的游戏模式
+2019-1-30 20:04:51 [INFO] /deop: 取消指定玩家的管理员权限
+2019-1-30 20:04:51 [INFO] /difficulty: 设置游戏的难易度
+2019-1-30 20:04:51 [INFO] /effect: 增加/减少玩家身上的效果
+2019-1-30 20:04:51 [INFO] /enchant: 为物品附魔
+2019-1-30 20:04:51 [INFO] /gamemode: 改变玩家到一个特定的游戏模式
+2019-1-30 20:04:51 [INFO] /gamerule: Sets or queries a game rule value.
+2019-1-30 20:04:51 [INFO] /gc: 启动垃圾清理任务
+2019-1-30 20:04:51 [INFO] /give: 给指定玩家一定数量的物品
+2019-1-30 20:04:51 [INFO] /help: 显示帮助列表
+2019-1-30 20:04:51 [INFO] /kick: 从服务器中删除指定玩家
+2019-1-30 20:04:51 [INFO] /kill: 自杀或杀死其他玩家
+2019-1-30 20:04:51 [INFO] /list: 显示在线玩家列表
+2019-1-30 20:04:51 [INFO] /me: 于聊天中作出指定的动作
+2019-1-30 20:04:51 [INFO] /op: 赋予指定玩家管理员权限
+2019-1-30 20:04:51 [INFO] /pardon: 允许指定玩家加入此服务器
+2019-1-30 20:04:51 [INFO] /pardon-ip: 允许指定 IP 地址加入此服务器
+2019-1-30 20:04:51 [INFO] /particle: 加入粒子效果至世界
+2019-1-30 20:04:51 [INFO] /plugins: 获取在服务器上运行的插件列表
+2019-1-30 20:04:51 [INFO] /reload: 重新读取服务器设定和插件
+2019-1-30 20:04:51 [INFO] /save-all: 保存服务器数据到磁盘上
+2019-1-30 20:04:51 [INFO] /save-off: 停用自动保存服务器数据
+2019-1-30 20:04:51 [INFO] /save-on: 启用自动保存服务器数据
+2019-1-30 20:04:51 [INFO] /say: 以发送指令者身份广播指定的讯息
+2019-1-30 20:04:51 [INFO] /seed: 显示世界种子
+2019-1-30 20:04:51 [INFO] /setworldspawn: 设定一个世界重生点。未指定坐标，将使用玩家的坐标。
+2019-1-30 20:04:51 [INFO] /spawnpoint: 设定玩家重生点
+2019-1-30 20:04:51 [INFO] /status: 重新读取服务器的运行状态。
+2019-1-30 20:04:51 [INFO] /stop: 关闭服务器
+2019-1-30 20:04:51 [INFO] /tell: 发送私密信息给指定玩家
+2019-1-30 20:04:51 [INFO] /time: 更改每个世界的时间
+2019-1-30 20:04:51 [INFO] /timings: 计时，以检视服务器的性能。
+2019-1-30 20:04:51 [INFO] /title: 显示横幅文字给一个玩家，或者更改该玩家显示的横幅文字设置
+2019-1-30 20:04:51 [INFO] /tp: 传送指定玩家（或是自己）到另一位玩家或坐标
+2019-1-30 20:04:51 [INFO] /version: 查看此服务器 (及其使用的插件) 的版本
+2019-1-30 20:04:51 [INFO] /weather: 设置当前地图的天气状态
+2019-1-30 20:04:51 [INFO] /whitelist: 管理员允许加入此服务器的玩家列表
+2019-1-30 20:04:51 [INFO] /xp: 为玩家添加一定数量或等级的经验
+2019-1-30 20:08:53 [NOTICE] 无法找到玩家数据 "keyorca9"，正在创建新的数据
+2019-1-30 20:08:54 [INFO] KeyOrca9[/183.166.65.11:52650] 登入游戏，实体 ID 为 1，坐标位于 (world, 128.0, 70.0, 128.0)
+2019-1-30 20:09:05 [INFO] KeyOrca9 加入了游戏
+2019-1-30 20:10:58 [INFO] 未知的指令。请使用 /help 来显示指令列表。
+2019-1-30 20:11:03 [INFO] 目前有 1/20 个玩家在线：
+2019-1-30 20:11:03 [INFO] KeyOrca9
+2019-1-30 20:12:09 [INFO] 未知的指令。请使用 /help 来显示指令列表。
+2019-1-30 20:12:12 [INFO] 用法：%commands.op.description
+2019-1-30 20:12:23 [INFO] [CONSOLE: 1 已获得管理员权限]
+2019-1-30 20:12:43 [INFO] KeyOrca9 离开了游戏
+2019-1-30 20:12:43 [INFO] KeyOrca9[/183.166.65.11:52650] 登出游戏，原因： client disconnect
+2019-1-30 20:13:00 [INFO] KeyOrca9[/183.166.65.11:52650] 登入游戏，实体 ID 为 6，坐标位于 (world, 109.8449, 66.0, 124.3379)
+2019-1-30 20:13:00 [INFO] KeyOrca9 加入了游戏
+2019-1-30 20:13:53 [INFO] [CONSOLE: 6 已获得管理员权限]
+2019-1-30 20:13:58 [INFO] [CONSOLE: 6 已获得管理员权限]
+2019-1-30 20:14:13 [INFO] --- 显示帮助手册总 1 页中的第 1 页 (/help <页码>) ---
+2019-1-30 20:14:13 [INFO] /ban: 禁止指定的玩家加入此服务器
+2019-1-30 20:14:13 [INFO] /ban-ip: 禁止指定的 IP 地址加入此服务器
+2019-1-30 20:14:13 [INFO] /banlist: 查看该服务器封禁的所有玩家
+2019-1-30 20:14:13 [INFO] /debugpaste: %nukkit.command.debug.description
+2019-1-30 20:14:13 [INFO] /defaultgamemode: 设置默认的游戏模式
+2019-1-30 20:14:13 [INFO] /deop: 取消指定玩家的管理员权限
+2019-1-30 20:14:13 [INFO] /difficulty: 设置游戏的难易度
+2019-1-30 20:14:13 [INFO] /effect: 增加/减少玩家身上的效果
+2019-1-30 20:14:13 [INFO] /enchant: 为物品附魔
+2019-1-30 20:14:13 [INFO] /gamemode: 改变玩家到一个特定的游戏模式
+2019-1-30 20:14:13 [INFO] /gamerule: Sets or queries a game rule value.
+2019-1-30 20:14:13 [INFO] /gc: 启动垃圾清理任务
+2019-1-30 20:14:13 [INFO] /give: 给指定玩家一定数量的物品
+2019-1-30 20:14:13 [INFO] /help: 显示帮助列表
+2019-1-30 20:14:13 [INFO] /kick: 从服务器中删除指定玩家
+2019-1-30 20:14:13 [INFO] /kill: 自杀或杀死其他玩家
+2019-1-30 20:14:13 [INFO] /list: 显示在线玩家列表
+2019-1-30 20:14:13 [INFO] /me: 于聊天中作出指定的动作
+2019-1-30 20:14:13 [INFO] /op: 赋予指定玩家管理员权限
+2019-1-30 20:14:13 [INFO] /pardon: 允许指定玩家加入此服务器
+2019-1-30 20:14:13 [INFO] /pardon-ip: 允许指定 IP 地址加入此服务器
+2019-1-30 20:14:13 [INFO] /particle: 加入粒子效果至世界
+2019-1-30 20:14:13 [INFO] /plugins: 获取在服务器上运行的插件列表
+2019-1-30 20:14:13 [INFO] /reload: 重新读取服务器设定和插件
+2019-1-30 20:14:13 [INFO] /save-all: 保存服务器数据到磁盘上
+2019-1-30 20:14:13 [INFO] /save-off: 停用自动保存服务器数据
+2019-1-30 20:14:13 [INFO] /save-on: 启用自动保存服务器数据
+2019-1-30 20:14:13 [INFO] /say: 以发送指令者身份广播指定的讯息
+2019-1-30 20:14:13 [INFO] /seed: 显示世界种子
+2019-1-30 20:14:13 [INFO] /setworldspawn: 设定一个世界重生点。未指定坐标，将使用玩家的坐标。
+2019-1-30 20:14:13 [INFO] /spawnpoint: 设定玩家重生点
+2019-1-30 20:14:13 [INFO] /status: 重新读取服务器的运行状态。
+2019-1-30 20:14:13 [INFO] /stop: 关闭服务器
+2019-1-30 20:14:13 [INFO] /tell: 发送私密信息给指定玩家
+2019-1-30 20:14:13 [INFO] /time: 更改每个世界的时间
+2019-1-30 20:14:13 [INFO] /timings: 计时，以检视服务器的性能。
+2019-1-30 20:14:13 [INFO] /title: 显示横幅文字给一个玩家，或者更改该玩家显示的横幅文字设置
+2019-1-30 20:14:13 [INFO] /tp: 传送指定玩家（或是自己）到另一位玩家或坐标
+2019-1-30 20:14:13 [INFO] /version: 查看此服务器 (及其使用的插件) 的版本
+2019-1-30 20:14:13 [INFO] /weather: 设置当前地图的天气状态
+2019-1-30 20:14:13 [INFO] /whitelist: 管理员允许加入此服务器的玩家列表
+2019-1-30 20:14:13 [INFO] /xp: 为玩家添加一定数量或等级的经验
+2019-1-30 20:17:14 [INFO] KeyOrca9 离开了游戏
+2019-1-30 20:17:14 [INFO] KeyOrca9[/183.166.65.11:52650] 登出游戏，原因： timeout
+2019-1-30 20:54:44 [INFO] KeyOrca9[/183.166.65.11:52650] 登入游戏，实体 ID 为 10，坐标位于 (world, 114.7224, 65.0, 138.0014)
+2019-1-30 20:54:45 [INFO] KeyOrca9 加入了游戏
+2019-1-30 20:55:34 [INFO] KeyOrca9 离开了游戏
+2019-1-30 20:55:34 [INFO] KeyOrca9[/183.166.65.11:52650] 登出游戏，原因： timeout
+2019-1-30 22:24:41 [INFO] KeyOrca9[/183.166.65.11:64073] 登入游戏，实体 ID 为 38，坐标位于 (world, 107.3036, 65.0, 136.7)
+2019-1-30 22:24:42 [INFO] KeyOrca9 加入了游戏
+2019-1-30 22:25:00 [NOTICE] 无法找到玩家数据 "strawyfox117294"，正在创建新的数据
+2019-1-30 22:25:01 [INFO] StrawyFox117294[/112.28.166.96:10051] 登入游戏，实体 ID 为 43，坐标位于 (world, 128.0, 63.0, 128.0)
+2019-1-30 22:25:02 [INFO] StrawyFox117294 加入了游戏
+2019-1-30 22:25:56 [INFO] StrawyFox117294 离开了游戏
+2019-1-30 22:25:56 [INFO] StrawyFox117294[/112.28.166.96:10051] 登出游戏，原因： timeout
+2019-1-30 22:27:37 [INFO] StrawyFox117294[/112.28.166.96:10051] 登入游戏，实体 ID 为 49，坐标位于 (world, 101.0124, 64.0, 133.9884)
+2019-1-30 22:27:37 [INFO] StrawyFox117294 加入了游戏
+2019-1-30 22:28:59 [NOTICE] 无法找到玩家数据 "zero233333"，正在创建新的数据
+2019-1-30 22:29:00 [INFO] ZERO233333[/36.57.29.120:32358] 登入游戏，实体 ID 为 51，坐标位于 (world, 128.0, 63.0, 128.0)
+2019-1-30 22:29:01 [INFO] ZERO233333 加入了游戏
+2019-1-30 22:29:06 [INFO] StrawyFox117294 刚刚获得了 Getting Wood 成就！
+2019-1-30 22:29:42 [INFO] --- 显示帮助手册总 1 页中的第 1 页 (/help <页码>) ---
+2019-1-30 22:29:42 [INFO] /ban: 禁止指定的玩家加入此服务器
+2019-1-30 22:29:42 [INFO] /ban-ip: 禁止指定的 IP 地址加入此服务器
+2019-1-30 22:29:42 [INFO] /banlist: 查看该服务器封禁的所有玩家
+2019-1-30 22:29:42 [INFO] /debugpaste: %nukkit.command.debug.description
+2019-1-30 22:29:42 [INFO] /defaultgamemode: 设置默认的游戏模式
+2019-1-30 22:29:42 [INFO] /deop: 取消指定玩家的管理员权限
+2019-1-30 22:29:42 [INFO] /difficulty: 设置游戏的难易度
+2019-1-30 22:29:42 [INFO] /effect: 增加/减少玩家身上的效果
+2019-1-30 22:29:42 [INFO] /enchant: 为物品附魔
+2019-1-30 22:29:42 [INFO] /gamemode: 改变玩家到一个特定的游戏模式
+2019-1-30 22:29:42 [INFO] /gamerule: Sets or queries a game rule value.
+2019-1-30 22:29:42 [INFO] /gc: 启动垃圾清理任务
+2019-1-30 22:29:42 [INFO] /give: 给指定玩家一定数量的物品
+2019-1-30 22:29:42 [INFO] /help: 显示帮助列表
+2019-1-30 22:29:42 [INFO] /kick: 从服务器中删除指定玩家
+2019-1-30 22:29:42 [INFO] /kill: 自杀或杀死其他玩家
+2019-1-30 22:29:42 [INFO] /list: 显示在线玩家列表
+2019-1-30 22:29:42 [INFO] /me: 于聊天中作出指定的动作
+2019-1-30 22:29:42 [INFO] /op: 赋予指定玩家管理员权限
+2019-1-30 22:29:42 [INFO] /pardon: 允许指定玩家加入此服务器
+2019-1-30 22:29:42 [INFO] /pardon-ip: 允许指定 IP 地址加入此服务器
+2019-1-30 22:29:42 [INFO] /particle: 加入粒子效果至世界
+2019-1-30 22:29:42 [INFO] /plugins: 获取在服务器上运行的插件列表
+2019-1-30 22:29:42 [INFO] /reload: 重新读取服务器设定和插件
+2019-1-30 22:29:42 [INFO] /save-all: 保存服务器数据到磁盘上
+2019-1-30 22:29:42 [INFO] /save-off: 停用自动保存服务器数据
+2019-1-30 22:29:42 [INFO] /save-on: 启用自动保存服务器数据
+2019-1-30 22:29:42 [INFO] /say: 以发送指令者身份广播指定的讯息
+2019-1-30 22:29:42 [INFO] /seed: 显示世界种子
+2019-1-30 22:29:42 [INFO] /setworldspawn: 设定一个世界重生点。未指定坐标，将使用玩家的坐标。
+2019-1-30 22:29:42 [INFO] /spawnpoint: 设定玩家重生点
+2019-1-30 22:29:42 [INFO] /status: 重新读取服务器的运行状态。
+2019-1-30 22:29:42 [INFO] /stop: 关闭服务器
+2019-1-30 22:29:42 [INFO] /tell: 发送私密信息给指定玩家
+2019-1-30 22:29:42 [INFO] /time: 更改每个世界的时间
+2019-1-30 22:29:42 [INFO] /timings: 计时，以检视服务器的性能。
+2019-1-30 22:29:42 [INFO] /title: 显示横幅文字给一个玩家，或者更改该玩家显示的横幅文字设置
+2019-1-30 22:29:42 [INFO] /tp: 传送指定玩家（或是自己）到另一位玩家或坐标
+2019-1-30 22:29:42 [INFO] /version: 查看此服务器 (及其使用的插件) 的版本
+2019-1-30 22:29:42 [INFO] /weather: 设置当前地图的天气状态
+2019-1-30 22:29:42 [INFO] /whitelist: 管理员允许加入此服务器的玩家列表
+2019-1-30 22:29:42 [INFO] /xp: 为玩家添加一定数量或等级的经验
+2019-1-30 22:29:54 [INFO] StrawyFox117294 刚刚获得了 Benchmarking 成就！
+2019-1-30 22:30:22 [INFO] 找不到该玩家
+2019-1-30 22:30:36 [INFO] Can't find player 51
+2019-1-30 22:30:54 [INFO] Can't find player 43
+2019-1-30 22:31:05 [INFO] 目前有 3/20 个玩家在线：
+2019-1-30 22:31:05 [INFO] KeyOrca9, StrawyFox117294, ZERO233333
+2019-1-30 22:31:40 [INFO] [CONSOLE: 已将 ZERO233333 传送至 KeyOrca9]
+2019-1-30 22:32:20 [INFO] ---- Server status ----
+2019-1-30 22:32:20 [INFO] Uptime: 0 days 2 hours 27 minutes 48 seconds
+2019-1-30 22:32:20 [INFO] Current TPS: 20.0
+2019-1-30 22:32:20 [INFO] Load: 1.54%
+2019-1-30 22:32:20 [INFO] Network upload: 0.0 kB/s
+2019-1-30 22:32:20 [INFO] Network download: 0.0 kB/s
+2019-1-30 22:32:20 [INFO] Thread count: 16
+2019-1-30 22:32:20 [INFO] Used memory: 42.44 MB. (17.56%)
+2019-1-30 22:32:20 [INFO] Total memory: 59.81 MB.
+2019-1-30 22:32:20 [INFO] Maximum VM memory: 241.69 MB.
+2019-1-30 22:32:20 [INFO] Available processors: 1
+2019-1-30 22:32:20 [INFO] Players: 3 online, 20 max.
+2019-1-30 22:32:20 [INFO] World "world": 413 chunks, 12 entities, 0 blockEntities. Time 0.0ms
+2019-1-30 22:32:20 [INFO] World "nether": 0 chunks, 0 entities, 0 blockEntities. Time 0.0ms
+2019-1-30 22:32:48 [INFO] [CONSOLE: 世界自动保存已开启]
+2019-1-30 22:33:14 [INFO] [CONSOLE: KeyOrca9 已获得管理员权限]
+2019-1-30 22:33:37 [INFO] [CONSOLE: ZERO233333 已获得管理员权限]
+2019-1-30 22:33:39 [INFO] StrawyFox117294 刚刚获得了 Time to Mine! 成就！
+2019-1-30 22:33:52 [INFO] [CONSOLE: StrawyFox117294 已获得管理员权限]
+2019-1-30 22:34:57 [INFO] [KeyOrca9: 已将 KeyOrca9 传送至 StrawyFox117294]
+2019-1-30 22:34:58 [INFO] StrawyFox117294 刚刚获得了 Getting an Upgrade 成就！
+2019-1-30 22:35:31 [INFO] StrawyFox117294 刚刚获得了 Hot Topic 成就！
+2019-1-30 22:37:49 [INFO] KeyOrca9 刚刚获得了 Getting Wood 成就！
+2019-1-30 22:38:20 [INFO] ZERO233333 刚刚获得了 Getting Wood 成就！
+2019-1-30 22:40:02 [INFO] [KeyOrca9: 时间设定为 0]
+2019-1-30 22:40:09 [INFO] [KeyOrca9: 已将天气设置为晴天]
+2019-1-30 22:42:19 [INFO] <StrawyFox117294> tpZERO23333
+2019-1-30 22:42:27 [INFO] [ZERO233333: 将 Bow (261:0) * 1 给 ZERO233333]
+2019-1-30 22:43:54 [INFO] [ZERO233333: 将 Cooked Porkchop (320:0) * 20 给 KeyOrca9]
+2019-1-30 22:44:14 [INFO] [ZERO233333: 将 Cooked Porkchop (320:0) * 20 给 StrawyFox117294]
+2019-1-30 22:44:49 [INFO] [ZERO233333: 将 Cooked Porkchop (320:0) * 20 给 ZERO233333]
+2019-1-30 22:46:09 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 22:46:15 [INFO] [ZERO233333: 已将 ZERO233333 传送至 StrawyFox117294]
+2019-1-30 22:47:57 [INFO] [KeyOrca9: 已将 StrawyFox117294 传送至 ZERO233333]
+2019-1-30 22:48:01 [INFO] [StrawyFox117294: 已将 StrawyFox117294 传送至 StrawyFox117294]
+2019-1-30 22:48:42 [INFO] [StrawyFox117294: 已将 StrawyFox117294 传送至 StrawyFox117294]
+2019-1-30 22:48:57 [INFO] [StrawyFox117294: 已将 StrawyFox117294 传送至 ZERO233333]
+2019-1-30 22:49:25 [ALERT] java.lang.ArrayIndexOutOfBoundsException: 3
+	at cn.nukkit.inventory.transaction.CraftingTransaction.setInput(CraftingTransaction.java:54)
+	at cn.nukkit.inventory.transaction.action.CraftingTransferMaterialAction.onAddToTransaction(CraftingTransferMaterialAction.java:25)
+	at cn.nukkit.inventory.transaction.InventoryTransaction.addAction(InventoryTransaction.java:68)
+	at cn.nukkit.inventory.transaction.InventoryTransaction.init(InventoryTransaction.java:45)
+	at cn.nukkit.inventory.transaction.CraftingTransaction.<init>(CraftingTransaction.java:47)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2835)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at cn.nukkit.network.Network.processPackets(Network.java:179)
+	at cn.nukkit.network.Network.processBatch(Network.java:161)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2042)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:76)
+	at cn.nukkit.Server.tick(Server.java:1071)
+	at cn.nukkit.Server.tickProcessor(Server.java:848)
+	at cn.nukkit.Server.start(Server.java:825)
+	at cn.nukkit.Server.<init>(Server.java:514)
+	at cn.nukkit.Nukkit.main(Nukkit.java:109)
+
+2019-1-30 22:52:04 [INFO] --- 显示帮助手册总 1 页中的第 1 页 (/help <页码>) ---
+2019-1-30 22:52:04 [INFO] /ban: 禁止指定的玩家加入此服务器
+2019-1-30 22:52:04 [INFO] /ban-ip: 禁止指定的 IP 地址加入此服务器
+2019-1-30 22:52:04 [INFO] /banlist: 查看该服务器封禁的所有玩家
+2019-1-30 22:52:04 [INFO] /debugpaste: %nukkit.command.debug.description
+2019-1-30 22:52:04 [INFO] /defaultgamemode: 设置默认的游戏模式
+2019-1-30 22:52:04 [INFO] /deop: 取消指定玩家的管理员权限
+2019-1-30 22:52:04 [INFO] /difficulty: 设置游戏的难易度
+2019-1-30 22:52:04 [INFO] /effect: 增加/减少玩家身上的效果
+2019-1-30 22:52:04 [INFO] /enchant: 为物品附魔
+2019-1-30 22:52:04 [INFO] /gamemode: 改变玩家到一个特定的游戏模式
+2019-1-30 22:52:04 [INFO] /gamerule: Sets or queries a game rule value.
+2019-1-30 22:52:04 [INFO] /gc: 启动垃圾清理任务
+2019-1-30 22:52:04 [INFO] /give: 给指定玩家一定数量的物品
+2019-1-30 22:52:04 [INFO] /help: 显示帮助列表
+2019-1-30 22:52:04 [INFO] /kick: 从服务器中删除指定玩家
+2019-1-30 22:52:04 [INFO] /kill: 自杀或杀死其他玩家
+2019-1-30 22:52:04 [INFO] /list: 显示在线玩家列表
+2019-1-30 22:52:04 [INFO] /me: 于聊天中作出指定的动作
+2019-1-30 22:52:04 [INFO] /op: 赋予指定玩家管理员权限
+2019-1-30 22:52:04 [INFO] /pardon: 允许指定玩家加入此服务器
+2019-1-30 22:52:04 [INFO] /pardon-ip: 允许指定 IP 地址加入此服务器
+2019-1-30 22:52:04 [INFO] /particle: 加入粒子效果至世界
+2019-1-30 22:52:04 [INFO] /plugins: 获取在服务器上运行的插件列表
+2019-1-30 22:52:04 [INFO] /reload: 重新读取服务器设定和插件
+2019-1-30 22:52:04 [INFO] /save-all: 保存服务器数据到磁盘上
+2019-1-30 22:52:04 [INFO] /save-off: 停用自动保存服务器数据
+2019-1-30 22:52:04 [INFO] /save-on: 启用自动保存服务器数据
+2019-1-30 22:52:04 [INFO] /say: 以发送指令者身份广播指定的讯息
+2019-1-30 22:52:04 [INFO] /seed: 显示世界种子
+2019-1-30 22:52:04 [INFO] /setworldspawn: 设定一个世界重生点。未指定坐标，将使用玩家的坐标。
+2019-1-30 22:52:04 [INFO] /spawnpoint: 设定玩家重生点
+2019-1-30 22:52:04 [INFO] /status: 重新读取服务器的运行状态。
+2019-1-30 22:52:04 [INFO] /stop: 关闭服务器
+2019-1-30 22:52:04 [INFO] /tell: 发送私密信息给指定玩家
+2019-1-30 22:52:04 [INFO] /time: 更改每个世界的时间
+2019-1-30 22:52:04 [INFO] /timings: 计时，以检视服务器的性能。
+2019-1-30 22:52:04 [INFO] /title: 显示横幅文字给一个玩家，或者更改该玩家显示的横幅文字设置
+2019-1-30 22:52:04 [INFO] /tp: 传送指定玩家（或是自己）到另一位玩家或坐标
+2019-1-30 22:52:04 [INFO] /version: 查看此服务器 (及其使用的插件) 的版本
+2019-1-30 22:52:04 [INFO] /weather: 设置当前地图的天气状态
+2019-1-30 22:52:04 [INFO] /whitelist: 管理员允许加入此服务器的玩家列表
+2019-1-30 22:52:04 [INFO] /xp: 为玩家添加一定数量或等级的经验
+2019-1-30 22:52:11 [INFO] [ZERO233333: 将 Unknown (125:0) * 64 给 ZERO233333]
+2019-1-30 22:52:41 [INFO] [CONSOLE: 重新读取服务器...]
+2019-1-30 22:52:41 [INFO] Reloading...
+2019-1-30 22:52:41 [INFO] Saving levels...
+2019-1-30 22:52:41 [INFO] Reloading properties...
+2019-1-30 22:52:41 [INFO] [CONSOLE: 重新读取完成]
+2019-1-30 22:52:47 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 22:52:48 [WARNING] ZERO233333 行动可疑！
+2019-1-30 22:53:20 [ALERT] java.lang.ArrayIndexOutOfBoundsException: 3
+	at cn.nukkit.inventory.transaction.CraftingTransaction.setInput(CraftingTransaction.java:54)
+	at cn.nukkit.inventory.transaction.action.CraftingTransferMaterialAction.onAddToTransaction(CraftingTransferMaterialAction.java:25)
+	at cn.nukkit.inventory.transaction.InventoryTransaction.addAction(InventoryTransaction.java:68)
+	at cn.nukkit.inventory.transaction.InventoryTransaction.init(InventoryTransaction.java:45)
+	at cn.nukkit.inventory.transaction.CraftingTransaction.<init>(CraftingTransaction.java:47)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2835)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at cn.nukkit.network.Network.processPackets(Network.java:179)
+	at cn.nukkit.network.Network.processBatch(Network.java:161)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2042)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:76)
+	at cn.nukkit.Server.tick(Server.java:1071)
+	at cn.nukkit.Server.tickProcessor(Server.java:848)
+	at cn.nukkit.Server.start(Server.java:825)
+	at cn.nukkit.Server.<init>(Server.java:514)
+	at cn.nukkit.Nukkit.main(Nukkit.java:109)
+
+2019-1-30 22:53:36 [INFO] 未知的指令。请使用 /help 来显示指令列表。
+2019-1-30 22:53:40 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 22:53:52 [INFO] 插件 (0)：
+2019-1-30 22:54:06 [INFO] 用法：/give <玩家名称> <物品[:特殊值]> [数量] [附加数据]
+2019-1-30 22:57:51 [WARNING] ZERO233333 行动可疑！
+2019-1-30 22:57:51 [WARNING] ZERO233333 行动可疑！
+2019-1-30 22:58:45 [INFO] [ZERO233333: 将 Unknown (125:1) * 20 给 ZERO233333]
+2019-1-30 23:00:03 [INFO] ZERO233333 刚刚获得了 Benchmarking 成就！
+2019-1-30 23:01:43 [INFO] [ZERO233333: 将 Spruce Wood Planks (5:1) * 200 给 ZERO233333]
+2019-1-30 23:03:05 [INFO] [StrawyFox117294: 已将 StrawyFox117294 传送至 ZERO233333]
+2019-1-30 23:03:43 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:04:40 [INFO] [ZERO233333: 将 Iron Axe (258:0) * 2 给 ZERO233333]
+2019-1-30 23:05:42 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:05:42 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:07:20 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:07:47 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:07:47 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:07:55 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:08:19 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:08:19 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:08:25 [INFO] [ZERO233333: 将 Diamond Shovel (277:0) * 1 给 StrawyFox117294]
+2019-1-30 23:08:33 [WARNING] ZERO233333 行动可疑！
+2019-1-30 23:08:33 [WARNING] ZERO233333 行动可疑！
+2019-1-30 23:09:36 [INFO] KeyOrca9 离开了游戏
+2019-1-30 23:09:36 [INFO] KeyOrca9[/183.166.65.11:64073] 登出游戏，原因： client disconnect
+2019-1-30 23:09:51 [INFO] KeyOrca9[/183.166.65.11:64073] 登入游戏，实体 ID 为 1344，坐标位于 (world, 110.2777, 65.0, 128.822)
+2019-1-30 23:09:52 [INFO] KeyOrca9 加入了游戏
+2019-1-30 23:10:09 [INFO] [StrawyFox117294: 已将 StrawyFox117294 传送至 KeyOrca9]
+2019-1-30 23:10:27 [WARNING] ZERO233333 行动可疑！
+2019-1-30 23:11:39 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:12:40 [INFO] [ZERO233333: 将 Bone Meal (351:15) * 64 给 ZERO233333]
+2019-1-30 23:13:21 [INFO] [ZERO233333: 将 Bone Meal (351:15) * 64 给 ZERO233333]
+2019-1-30 23:13:21 [INFO] StrawyFox117294 离开了游戏
+2019-1-30 23:13:21 [INFO] StrawyFox117294[/112.28.166.96:10051] 登出游戏，原因： timeout
+2019-1-30 23:14:46 [WARNING] ZERO233333 行动可疑！
+2019-1-30 23:14:46 [WARNING] ZERO233333 行动可疑！
+2019-1-30 23:16:17 [INFO] StrawyFox117294[/112.28.166.96:10064] 登入游戏，实体 ID 为 1489，坐标位于 (world, 97.1323, 65.0, 133.6207)
+2019-1-30 23:16:18 [INFO] StrawyFox117294 加入了游戏
+2019-1-30 23:16:44 [WARNING] StrawyFox117294 行动可疑！
+2019-1-30 23:21:02 [WARNING] KeyOrca9 行动可疑！
+2019-1-30 23:21:48 [INFO] KeyOrca9 离开了游戏
+2019-1-30 23:21:48 [INFO] KeyOrca9[/183.166.65.11:64073] 登出游戏，原因： client disconnect
+2019-1-30 23:22:00 [INFO] ZERO233333 离开了游戏
+2019-1-30 23:22:00 [INFO] ZERO233333[/36.57.29.120:32358] 登出游戏，原因： client disconnect
+2019-1-30 23:22:35 [INFO] StrawyFox117294 离开了游戏
+2019-1-30 23:22:35 [INFO] StrawyFox117294[/112.28.166.96:10064] 登出游戏，原因： client disconnect
+2019-1-31 13:31:47 [INFO] ZERO233333[/36.57.29.120:31208] 登入游戏，实体 ID 为 1746，坐标位于 (world, 111.7908, 67.0, 116.5865)
+2019-1-31 13:31:48 [INFO] ZERO233333 加入了游戏
+2019-1-31 13:38:54 [INFO] [ZERO233333: 将 White stained glass pane (160:0) * 100 给 ZERO233333]
+2019-1-31 13:43:05 [INFO] ZERO233333 离开了游戏
+2019-1-31 13:43:05 [INFO] ZERO233333[/36.57.29.120:31208] 登出游戏，原因： client disconnect
+2019-1-31 13:43:12 [INFO] ZERO233333[/36.57.29.120:31208] 登入游戏，实体 ID 为 1770，坐标位于 (world, 111.5864, 67.0, 119.12)
+2019-1-31 13:43:13 [INFO] ZERO233333 加入了游戏
+2019-1-31 13:43:42 [INFO] [ZERO233333: 将 Unknown (189:0) * 30 给 ZERO233333]
+2019-1-31 13:45:13 [INFO] [ZERO233333: 将 Birch Wood Planks (5:2) * 100 给 ZERO233333]
+2019-1-31 13:50:36 [INFO] [ZERO233333: 您的游戏模式已被设置为 创造模式]
+2019-1-31 13:54:57 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 14:29:01 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 14:46:42 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 14:58:16 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 15:08:43 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 15:19:36 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 15:32:40 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 15:44:48 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 16:40:32 [INFO] [ZERO233333: 已将天气设置为雨天]
+2019-1-31 16:48:24 [INFO] [ZERO233333: 时间增加了 100]
+2019-1-31 16:48:31 [INFO] [ZERO233333: 时间增加了 10000]
+2019-1-31 16:48:37 [INFO] [ZERO233333: 时间增加了 1000000000]
+2019-1-31 16:59:46 [INFO] [ZERO233333: 时间设定为 0]
+2019-1-31 17:05:40 [INFO] [ZERO233333: 将 Bow (261:0) * 1 给 ZERO233333]
+2019-1-31 17:05:58 [INFO] [ZERO233333: 将 Bow (261:0) * 1 给 ZERO233333]
+2019-1-31 17:08:14 [INFO] [ZERO233333: 将 Diamond Sword (276:0) * 1 给 ZERO233333]
+2019-1-31 17:09:34 [INFO] [ZERO233333: 将 Bow (261:0) * 1 给 ZERO233333]
+2019-1-31 17:09:46 [INFO] [ZERO233333: 将 Bow (261:0) * 1 给 ZERO233333]
+2019-1-31 17:10:02 [INFO] [ZERO233333: 将 Bow (261:3) * 1 给 ZERO233333]
+2019-1-31 17:11:50 [INFO] [ZERO233333: 将 Diamond Sword (276:0) * 1 给 ZERO233333]
+2019-1-31 17:13:57 [INFO] [ZERO233333: 您的游戏模式已被设置为 生存模式]
+2019-1-31 17:14:12 [INFO] ZERO233333 离开了游戏
+2019-1-31 17:14:12 [INFO] ZERO233333[/36.57.29.120:31208] 登出游戏，原因： client disconnect
+2019-1-31 21:03:26 [INFO] ZERO233333[/36.57.29.120:30439] 登入游戏，实体 ID 为 2192，坐标位于 (world, 116.9809, 66.0, 118.2935)
+2019-1-31 21:03:26 [INFO] ZERO233333 加入了游戏
+2019-1-31 21:03:32 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:03:33 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:03:34 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:03:37 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:03:37 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:09 [INFO] ZERO233333 离开了游戏
+2019-1-31 21:04:09 [INFO] ZERO233333[/36.57.29.120:30439] 登出游戏，原因： client disconnect
+2019-1-31 21:04:19 [INFO] ZERO233333[/36.57.29.120:30439] 登入游戏，实体 ID 为 2196，坐标位于 (world, 117.285, 66.0, 116.3)
+2019-1-31 21:04:20 [INFO] ZERO233333 加入了游戏
+2019-1-31 21:04:53 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:54 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:54 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:54 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:54 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:55 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:04:55 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:05:18 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:05:37 [INFO] ZERO233333 离开了游戏
+2019-1-31 21:05:37 [INFO] ZERO233333[/36.57.29.120:30439] 登出游戏，原因： timeout
+2019-1-31 21:06:23 [INFO] ZERO233333[/36.57.29.120:30439] 登入游戏，实体 ID 为 2197，坐标位于 (world, 105.2371, 65.0, 111.4373)
+2019-1-31 21:06:23 [INFO] ZERO233333 加入了游戏
+2019-1-31 21:06:38 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:06:50 [INFO] ZERO233333 离开了游戏
+2019-1-31 21:06:50 [INFO] ZERO233333[/36.57.29.120:30439] 登出游戏，原因： timeout
+2019-1-31 21:08:09 [INFO] ZERO233333[/36.57.29.120:30439] 登入游戏，实体 ID 为 2201，坐标位于 (world, 105.7, 65.0, 112.1845)
+2019-1-31 21:08:10 [INFO] ZERO233333 加入了游戏
+2019-1-31 21:08:23 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:23 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:24 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:34 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:34 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:36 [WARNING] ZERO233333 行动可疑！
+2019-1-31 21:08:47 [INFO] [ZERO233333: 您的游戏模式已被设置为 创造模式]
+2019-1-31 21:09:43 [INFO] ZERO233333 离开了游戏
+2019-1-31 21:09:43 [INFO] ZERO233333[/36.57.29.120:30439] 登出游戏，原因： timeout
+2019-1-31 21:10:08 [INFO] ZERO233333[/36.57.29.120:30439] 登入游戏，实体 ID 为 2205，坐标位于 (world, 97.6885, 57.5359, 140.3)
+2019-1-31 21:10:09 [INFO] ZERO233333 加入了游戏
+2019-1-31 21:11:01 [INFO] ZERO233333 离开了游戏
+2019-1-31 21:11:01 [INFO] ZERO233333[/36.57.29.120:30439] 登出游戏，原因： timeout
+2019-1-31 22:23:11 [INFO] KeyOrca9[/223.242.250.25:57636] 登入游戏，实体 ID 为 2206，坐标位于 (world, 109.8172, 67.0, 116.7)
+2019-1-31 22:23:12 [INFO] KeyOrca9 加入了游戏
+2019-1-31 22:25:45 [INFO] KeyOrca9 离开了游戏
+2019-1-31 22:25:45 [INFO] KeyOrca9[/223.242.250.25:57636] 登出游戏，原因： client disconnect
+2019-1-31 22:59:07 [INFO] KeyOrca9[/223.242.250.25:51900] 登入游戏，实体 ID 为 2239，坐标位于 (world, 116.8519, 70.0, 123.1092)
+2019-1-31 22:59:08 [INFO] KeyOrca9 加入了游戏
+2019-1-31 22:59:17 [INFO] KeyOrca9 离开了游戏
+2019-1-31 22:59:17 [INFO] KeyOrca9[/223.242.250.25:51900] 登出游戏，原因： timeout
+2019-2-5 21:51:40 [INFO] --- 显示帮助手册总 1 页中的第 1 页 (/help <页码>) ---
+2019-2-5 21:51:40 [INFO] /ban: 禁止指定的玩家加入此服务器
+2019-2-5 21:51:40 [INFO] /ban-ip: 禁止指定的 IP 地址加入此服务器
+2019-2-5 21:51:40 [INFO] /banlist: 查看该服务器封禁的所有玩家
+2019-2-5 21:51:40 [INFO] /debugpaste: %nukkit.command.debug.description
+2019-2-5 21:51:40 [INFO] /defaultgamemode: 设置默认的游戏模式
+2019-2-5 21:51:40 [INFO] /deop: 取消指定玩家的管理员权限
+2019-2-5 21:51:40 [INFO] /difficulty: 设置游戏的难易度
+2019-2-5 21:51:40 [INFO] /effect: 增加/减少玩家身上的效果
+2019-2-5 21:51:40 [INFO] /enchant: 为物品附魔
+2019-2-5 21:51:40 [INFO] /gamemode: 改变玩家到一个特定的游戏模式
+2019-2-5 21:51:40 [INFO] /gamerule: Sets or queries a game rule value.
+2019-2-5 21:51:40 [INFO] /gc: 启动垃圾清理任务
+2019-2-5 21:51:40 [INFO] /give: 给指定玩家一定数量的物品
+2019-2-5 21:51:40 [INFO] /help: 显示帮助列表
+2019-2-5 21:51:40 [INFO] /kick: 从服务器中删除指定玩家
+2019-2-5 21:51:40 [INFO] /kill: 自杀或杀死其他玩家
+2019-2-5 21:51:40 [INFO] /list: 显示在线玩家列表
+2019-2-5 21:51:40 [INFO] /me: 于聊天中作出指定的动作
+2019-2-5 21:51:40 [INFO] /op: 赋予指定玩家管理员权限
+2019-2-5 21:51:40 [INFO] /pardon: 允许指定玩家加入此服务器
+2019-2-5 21:51:40 [INFO] /pardon-ip: 允许指定 IP 地址加入此服务器
+2019-2-5 21:51:40 [INFO] /particle: 加入粒子效果至世界
+2019-2-5 21:51:40 [INFO] /plugins: 获取在服务器上运行的插件列表
+2019-2-5 21:51:40 [INFO] /reload: 重新读取服务器设定和插件
+2019-2-5 21:51:40 [INFO] /save-all: 保存服务器数据到磁盘上
+2019-2-5 21:51:40 [INFO] /save-off: 停用自动保存服务器数据
+2019-2-5 21:51:40 [INFO] /save-on: 启用自动保存服务器数据
+2019-2-5 21:51:40 [INFO] /say: 以发送指令者身份广播指定的讯息
+2019-2-5 21:51:40 [INFO] /seed: 显示世界种子
+2019-2-5 21:51:40 [INFO] /setworldspawn: 设定一个世界重生点。未指定坐标，将使用玩家的坐标。
+2019-2-5 21:51:40 [INFO] /spawnpoint: 设定玩家重生点
+2019-2-5 21:51:40 [INFO] /status: 重新读取服务器的运行状态。
+2019-2-5 21:51:40 [INFO] /stop: 关闭服务器
+2019-2-5 21:51:40 [INFO] /tell: 发送私密信息给指定玩家
+2019-2-5 21:51:40 [INFO] /time: 更改每个世界的时间
+2019-2-5 21:51:40 [INFO] /timings: 计时，以检视服务器的性能。
+2019-2-5 21:51:40 [INFO] /title: 显示横幅文字给一个玩家，或者更改该玩家显示的横幅文字设置
+2019-2-5 21:51:40 [INFO] /tp: 传送指定玩家（或是自己）到另一位玩家或坐标
+2019-2-5 21:51:40 [INFO] /version: 查看此服务器 (及其使用的插件) 的版本
+2019-2-5 21:51:40 [INFO] /weather: 设置当前地图的天气状态
+2019-2-5 21:51:40 [INFO] /whitelist: 管理员允许加入此服务器的玩家列表
+2019-2-5 21:51:40 [INFO] /xp: 为玩家添加一定数量或等级的经验
+2019-2-5 21:52:17 [INFO] [CONSOLE: 重新读取服务器...]
+2019-2-5 21:52:17 [INFO] Reloading...
+2019-2-5 21:52:17 [INFO] Saving levels...
+2019-2-5 21:52:17 [INFO] Reloading properties...
+2019-2-5 21:52:17 [INFO] [CONSOLE: 重新读取完成]
+2019-2-5 21:52:30 [INFO] KeyOrca9[/223.245.210.146:34042] 登入游戏，实体 ID 为 4085，坐标位于 (world, 116.8519, 70.0, 123.1092)
+2019-2-5 21:52:31 [INFO] KeyOrca9 加入了游戏
+2019-2-5 21:52:54 [WARNING] KeyOrca9 行动可疑！
+2019-2-5 21:53:04 [EMERGENCY] RakNet crashed!

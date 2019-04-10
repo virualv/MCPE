@@ -1,0 +1,19 @@
+2019-2-15 22:59:09 [INFO] Loading nukkit.yml...
+2019-2-15 22:59:09 [INFO] Loading server properties...
+2019-2-15 22:59:09 [INFO] 将 中文(简体) (chs) 设定为基本语言
+2019-2-15 22:59:09 [INFO] 正在启动支持 Minecraft: PE v1.8.0 版本的服务器
+2019-2-15 22:59:09 [INFO] Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-2-15 22:59:09 [INFO] 正在启动服务器在 0.0.0.0:19132
+2019-2-15 22:59:09 [INFO] 此服务器正在运行 Nukkit git-17e2dfa 版本 "" (API 1.0.7)
+2019-2-15 22:59:09 [INFO] Nukkit 根据 LGPL 许可发行
+2019-2-15 22:59:11 [INFO] Loading recipes...
+2019-2-15 22:59:11 [INFO] Loaded 954 recipes.
+2019-2-15 22:59:11 [INFO] Successfully loaded 0 resource packs
+2019-2-15 22:59:11 [INFO] 准备地图中... "world"
+2019-2-15 22:59:11 [INFO] 准备地图中... "nether"
+2019-2-15 22:59:12 [INFO] Epoll is available. EpollEventLoop will be used.
+2019-2-15 22:59:12 [INFO] 启动 GS4 状态监听器
+2019-2-15 22:59:12 [INFO] 将 Query 端口设定为 19132
+2019-2-15 22:59:12 [INFO] Query 运行在 0.0.0.0:19132
+2019-2-15 22:59:12 [INFO] 默认的游戏模式为：生存模式
+2019-2-15 22:59:12 [INFO] 启动完成 (3.303s)！如需帮助，请输入 "help" 或 "?"
